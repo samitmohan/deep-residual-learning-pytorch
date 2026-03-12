@@ -6,4 +6,3 @@ runs/
 *.tar.gz
 .venv/
 *.egg-info/
-output_plots/
